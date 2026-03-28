@@ -1,19 +1,19 @@
 # Stock Portfolio Optimization & Risk Analysis
 
-## Overview
+# Overview
 This project applies quantitative finance techniques to construct an optimal portfolio using Modern Portfolio Theory (MPT), CAPM, and Monte Carlo simulation.
 
-## Key Features
-* 📈 Stock price analysis (EDA)
-* 🔗 Correlation heatmap (diversification)
-* ⚙️ Portfolio optimization (5000 simulations)
-* 📊 Efficient Frontier visualization
-* 🔁 Backtesting vs NIFTY benchmark
-* 📉 CAPM analysis (Beta & Expected Return)
-* 🎲 Monte Carlo simulation
-* ⚠️ Risk analysis (VaR & Maximum Drawdown)
+# Key Features
+* Stock price analysis (EDA)
+* Correlation heatmap (diversification)
+* Portfolio optimization (5000 simulations)
+* Efficient Frontier visualization
+* Backtesting vs NIFTY benchmark
+* CAPM analysis (Beta & Expected Return)
+* Monte Carlo simulation
+* Risk analysis (VaR & Maximum Drawdown)
 
-## Results
+# Results
 * Optimal Portfolio:
   
   * Return: 0.00073
@@ -29,24 +29,24 @@ This project applies quantitative finance techniques to construct an optimal por
   * VaR (95%): -1.71%
   * Max Drawdown: -34.82%
 
-## Visualizations
+# Visualizations
 * Stock Price Trends
 * Correlation Matrix
 * Efficient Frontier
 * Portfolio vs Market
 * Monte Carlo Simulation
 
-## Files
+# Files
 * `portfolio_analysis.ipynb` → Final project report
 * `report.pdf` → Codes
 * 
-## Tech Stack
+# Tech Stack
 Python, Pandas, NumPy, Matplotlib, Seaborn, yfinance
 
-## Conclusion
+# Conclusion
 This project demonstrates how portfolio optimization and risk management techniques can be applied using real-world financial data.
 
-## Author
+# Author
 Gugan G
 
 
