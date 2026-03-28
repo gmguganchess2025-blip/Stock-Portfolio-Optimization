@@ -30,8 +30,8 @@ This project applies quantitative finance techniques to construct an optimal por
   * Max Drawdown: -34.82%
 
 # Visualizations
-* Stock Price Trends ![Stock](stock%20prices.png)
-* Correlation Matrix 
+* Stock Price Trends
+* Correlation Matrix
 * Efficient Frontier
 * Portfolio vs Market
 * Monte Carlo Simulation
